@@ -1,6 +1,6 @@
 <p align="center"><img width="300" height="auto" src="https://i.imgur.com/sHgQ6QO.png" height="175px"/></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sherifdeen</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Sherifdeen</h1>
 <h3 align="center">I'm a passionate Full Stack Developer based in Lagos, Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herdeybayor&label=Profile%20views&color=0e75b6&style=flat" alt="herdeybayor" /> </p>
