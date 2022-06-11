@@ -9,9 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/s_herdeybayor" target="blank"><img src="https://img.shields.io/twitter/follow/s_herdeybayor?logo=twitter&style=for-the-badge" alt="s_herdeybayor" /></a> </p>
 
-- 🔭 I’m currently working on [Medium Blog 2.0](https://mediumblog-theta.vercel.app/)
+- 🔭 I’m currently working on Custom Next-Auth Pages
+<!-- - 🔭 I’m currently working on [Medium Blog 2.0](https://mediumblog-theta.vercel.app/) -->
 
-- 🌱 I’m currently learning **GSAP3**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
