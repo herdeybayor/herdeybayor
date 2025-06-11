@@ -32,7 +32,7 @@ I'm a Full Stack Dev., DevOps Engineer, and Product Designer (UI/UX) with 7 year
 
 #### Work
 
-Portfolio: https://www.sherifdeenadebayo.com/portfolio
+Portfolio: https://dub.sh/herdeybayor
 
 **DevOps Projects:** Infrastructure automation, CI/CD pipelines, containerized applications, cloud infrastructure management
 
