@@ -48,4 +48,6 @@ Portfolio: https://dub.sh/herdeybayor
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=herdeybayor&count_private=true&theme=dark)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=herdeybayor)](https://git.io/streak-stats)
+
 </details>
